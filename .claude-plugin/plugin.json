@@ -1,0 +1,8 @@
+{
+  "name": "cofounder-skills",
+  "description": "AI Cofounder course skills from CMU 11-787. Includes prompts for competitive research, customer discovery, landing pages, recruiting, budgeting, pricing, market sizing, demand generation, legal basics, and more.",
+  "version": "1.0.0",
+  "author": {
+    "name": "CMU 11-787 AI Cofounder Course"
+  }
+}
