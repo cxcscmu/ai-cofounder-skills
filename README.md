@@ -109,6 +109,13 @@ Each skill will prompt you for the required inputs (company name, product descri
 |-------|-------------|
 | `poster-generator` | Generates demo day poster concepts, layouts, visual direction, headlines, and image generation prompts for a 2x3ft startup poster. |
 | `ten-minute-stories` | Generates 10 different 10-minute story arc outlines across styles (Hero's Journey, Origin Story, David vs Goliath, and more) with scoring and recommendations. |
+| `visual-storytelling-coach` | Reviews, scores, and improves slides, PDFs, charts, dashboards, and other visual artifacts with 15 storytelling lenses, hard tests, a violation library, and coached fixes. |
+
+### Module 11: Hostile Q&A
+
+| Skill | Description |
+|-------|-------------|
+| `hostile-faqs` | Generates a 10-question hostile FAQ battlecard for live sales, investor, and buyer Q&A — with question type taxonomy, recommended response techniques, short and expanded answers, risk analysis, and coaching notes. |
 
 ## License
 
